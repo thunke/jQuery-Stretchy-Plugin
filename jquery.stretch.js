@@ -1,6 +1,6 @@
 /*
  * jQuery Stretch Plugin
- * http://where.to/find
+ * https://github.com/thunke/jQuery-Stretchy-Plugin
  * Copyright (c) 2010 Tommy Hunke
  * Version: 1.0 (05/23/2010)
  * Licensed under the MIT licenses:
